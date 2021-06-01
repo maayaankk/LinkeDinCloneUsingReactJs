@@ -1,3 +1,7 @@
+## Project introduction 
+
+A full fledge web app build with React JS Firebase and it has Google Authentication as well
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
