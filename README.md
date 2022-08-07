@@ -1,6 +1,6 @@
 ## Project introduction 
 
-A full fledge web app build with React JS Firebase and it has Google Authentication as well
+A full fledge web app build with React JS Firebase and it has Google Authentication as well.
 
 # Getting Started with Create React App
 
